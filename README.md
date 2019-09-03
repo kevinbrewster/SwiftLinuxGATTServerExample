@@ -32,6 +32,10 @@ I'm using [BlueSee BLE Debugger](https://apps.apple.com/us/app/bluesee-ble-debug
 
 # Helpful Links
 
+### BLE API Design
+
+  * [GATT Profile Design](https://blog.kstechnologies.com/gatt-profile-design/)
+ 
 ### BLE Advertising
 
   * [Bluetooth advertising data basics](https://www.silabs.com/community/wireless/bluetooth/knowledge-base.entry.html/2017/02/10/bluetooth_advertisin-hGsf)
