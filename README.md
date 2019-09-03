@@ -17,6 +17,12 @@ This example sets up a simple BLE peripheral with 2 services, each with a single
 3. Checkout the SwiftLinuxGATTServerExample project
 4. Navigate to project directory and run: `sudo /home/pi/usr/bin/swift run`
 
+# Testing
+
+I'm using [BlueSee BLE Debugger](https://apps.apple.com/us/app/bluesee-ble-debugger/id1336679524?mt=12) to test the BLE connection and verify that read/write works on the example customer characteristic.
+
+
+
 # Dependencies
 
 * [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
