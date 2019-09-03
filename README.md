@@ -29,3 +29,11 @@ I'm using [BlueSee BLE Debugger](https://apps.apple.com/us/app/bluesee-ble-debug
 
 * [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
 * [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift
+
+# Helpful Links
+
+### BLE Advertising
+
+  * [Bluetooth advertising data basics](https://www.silabs.com/community/wireless/bluetooth/knowledge-base.entry.html/2017/02/10/bluetooth_advertisin-hGsf)
+  * [PureSwift/GAPDataType](http://pureswift.github.io/Bluetooth/docs/Structs/GAPDataType.html)
+  * [PureSwift/GAPDataEncoder](http://pureswift.github.io/Bluetooth/docs/Structs/GAPDataEncoder.html)
