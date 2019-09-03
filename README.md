@@ -1,6 +1,6 @@
 # SwiftLinuxGATTServerExample
 
-This is a bare bones example of how to create a Bluetooth 4.0 (BLE) peripheral (aka GATT server) on Linux (e.g. on a Raspberry Pi) using the PureSwift libraries.
+This is a bare bones example of how to create a Bluetooth 4.0 (BLE) peripheral (aka GATT server) on Linux (e.g. on a Raspberry Pi) using Swift and the [PureSwift BluetoothLinux library](https://github.com/PureSwift/BluetoothLinux).
 
 This example sets up a simple BLE peripheral with 2 services, each with a single characteristic. 
 
