@@ -21,7 +21,9 @@ This example sets up a simple BLE peripheral with 2 services, each with a single
 
 I'm using [BlueSee BLE Debugger](https://apps.apple.com/us/app/bluesee-ble-debugger/id1336679524?mt=12) to test the BLE connection and verify that read/write works on the example customer characteristic.
 
+![Device Log](/BlueSeeDeviceLog.png)
 
+![Read and Write](/BlueSeeReadWrite.png)
 
 # Dependencies
 
