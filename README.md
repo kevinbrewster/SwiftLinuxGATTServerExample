@@ -4,6 +4,8 @@ This is a bare bones example of how to create a Bluetooth 4.0 (BLE) peripheral (
 
 This example sets up a simple BLE peripheral with 2 services, each with a single characteristic. 
 
+For a more advanced example with nicer syntax, take a look at [SwiftLinuxGATTServerExampleAdvanced](https://github.com/kevinbrewster/SwiftLinuxGATTServerExampleAdvanced)
+
 * **Device Information**: an example of using a built-in GATT "Device Information" service (0x180A) with the built-in GATT "Manufacturer Name String" characteristic (0x2A29). Normally you'd have more characteristics for this service.
 
 * **Example Service**: a custom service with a single read/write characteristic. This shows how to handle write requests and how to update a characteristics value.
